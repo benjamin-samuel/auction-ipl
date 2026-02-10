@@ -1,0 +1,4 @@
+body{font-family:Arial;background:#0f172a;color:white}
+.center{text-align:center;margin-top:100px}
+button{padding:12px 20px;margin:10px;border:none;border-radius:6px;background:#22c55e;color:black;font-size:16px}
+input,select{display:block;margin:10px auto;padding:10px;width:250px}

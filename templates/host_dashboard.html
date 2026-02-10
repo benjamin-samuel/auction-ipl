@@ -1,0 +1,7 @@
+<h2>Welcome {{host.host_name}}</h2>
+<h3>Members</h3>
+<ul>
+{% for u,v in host.members.items() %}
+<li>{{u}} - {{v.team}}</li>
+{% endfor %}
+</ul>
